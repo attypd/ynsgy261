@@ -1,26 +1,21 @@
-名字: Super-Auto-Spider
-在:
-时间表:
-    - cron（通常读作[*]）: '30 21 * * *'
+name: Super-Auto-Spider
+on:
+  schedule:
+    - cron: '30 21 * * *'
   workflow_dispatch:
-工作:
+jobs:
   spider_task:
     runs-on: ubuntu-latest
-步骤:
-      - 名字: 付款台
-用途；使用；用法: actions/checkout@v3
-      - 名字: 蟒蛇
-用途；使用；用法: actions/setup-python@v4
-与:
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
           python-version: '3.9'
-      - 名字: 安装
-跑: 安装请求：
-      - 名字: 跑
-跑: python fetch.py
-      - 名字: 推
-跑: |
-git config --global user.email"bot@github.com"
-全局 user.name"Bot"
-git添加 v_data_88.txt
-git commit-m[更新]|退出 0
-推送至 git
+      - run: pip install requests
+      - run: python fetch.py
+      - run: |
+          git config --global user.email "bot@github.com"
+          git config --global user.name "Bot"
+          git add v_data_88.txt
+          git commit -m "Update" || exit 0
+          git push
