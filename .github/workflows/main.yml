@@ -1,0 +1,31 @@
+name: Super-Auto-Spider
+on:
+  schedule:
+    - cron: '30 21 * * *' # 每天北京时间早上5:30自动执行（避开高峰期）
+  workflow_dispatch:      # 允许你在手机上手动点击运行
+
+jobs:
+  spider_task:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. 拉取当前仓库代码
+        uses: actions/checkout@v3
+
+      - name: 2. 初始化Python环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 3. 安装网络组件
+        run: pip install requests
+
+      - name: 4. 执行超级爬虫
+        run: python fetch.py
+
+      - name: 5. 将新抓到的源同步回仓库
+        run: |
+          git config --global user.email "worker@github.com"
+          git config --global user.name "Auto-Worker"
+          git add v_data_88.txt
+名字
+推送至 git git you gold git-m“自动更新：$（日期）”||
