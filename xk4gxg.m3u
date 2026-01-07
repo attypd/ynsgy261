@@ -1414,3 +1414,93 @@ https://live.catvod.com/live.php?id=tiankongmain
 https://live.catvod.com/live.php?id=tiankongnews
 #EXTINF:-1 group-title="其它频道",Al-Jazeera
 https://live.catvod.com/live.php?id=aljazeera_twn
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="其他",鳳凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="港澳台",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB翡翠(馬來)
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1,tvg-id="tvb明珠" tvg-name="tvb明珠" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="港澳台",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1,tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://epg.v1.mk/logo/TVBJ2.png" group-title="港澳台",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1,tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://epg.v1.mk/logo/TVB1.png" group-title="港澳台",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1,tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="其他",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="其他",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="其他",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="其他",RTHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港澳台",MYTV黃金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB翡翠劇集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="其他",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港澳台",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1,tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="其他",非凡直播
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1,tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://epg.v1.mk/logo/华艺MBC.png" group-title="其他",華藝中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1,tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="其他",爱奇艺
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1,tvg-id="台湾戏剧" tvg-name="台湾戏剧" tvg-logo="https://epg.v1.mk/logo/台湾戏剧.png" group-title="其他",臺灣戲劇
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1,tvg-id="EYE戏剧" tvg-name="EYE戏剧" tvg-logo="https://epg.v1.mk/logo/EYE戏剧.png" group-title="其他",EYE戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1,tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="其他",緯來電影
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="其他",東森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.v1.mk/logo/龙华电影.png" group-title="其他",龍華电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1,tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://epg.v1.mk/logo/民视综艺.png" group-title="其他",民視綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1,tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://epg.v1.mk/logo/TVBS精采.png" group-title="港澳台",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1,tvg-id="美亚电影(国)" tvg-name="美亚电影(国)" tvg-logo="https://epg.v1.mk/logo/美亚电影(国).png" group-title="其他",美亚电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1,tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="其他",東森洋片
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.v1.mk/logo/爱尔达综合.png" group-title="其他",爱尔达综合
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="其他",ROCK_Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1,tvg-id="JET综合" tvg-name="JET综合" tvg-logo="https://epg.v1.mk/logo/JET综合.png" group-title="其他",JET综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="其他",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1,tvg-id="BBC_Lifestyle" tvg-name="BBC_Lifestyle" tvg-logo="https://epg.v1.mk/logo/BBC_Lifestyle.png" group-title="其他",BBC_Earth
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1,tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="港澳台",中视经典
+http://iptv.4666888.xyz/iptv2A.php?id=54
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.v1.mk/logo/凤凰电影.png" group-title="香港",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="卫视",星空卫视频道
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1,tvg-id="星空卫视4" tvg-name="星空卫视4" tvg-logo="https://epg.v1.mk/logo/星空卫视4.png" group-title="卫视",星空卫视频晴
+P2p://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
+#EXTINF:-1,tvg-id="SCTV6星空购物" tvg-name="SCTV6星空购物" tvg-logo="https://epg.v1.mk/logo/SCTV6星空购物.png" group-title="其他",星空音乐
+http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+#EXTINF:-1,tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://epg.v1.mk/logo/邵氏影院.png" group-title="其他",邵氏动作 HD
+https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+#EXTINF:-1,tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://epg.v1.mk/logo/邵氏影院.png" group-title="其他",邵氏喜剧 HD
+https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
+#EXTINF:-1,tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://epg.v1.mk/logo/邵氏影院.png" group-title="其他",邵氏武侠 HD
+https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
+#EXTINF:-1,tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="https://epg.v1.mk/logo/邵氏电影.png" group-title="其他",邵氏电影 HD
+https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
