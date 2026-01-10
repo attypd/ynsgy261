@@ -24,12 +24,6 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 🥕镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8
 TVB剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-NOW新闻台,https://yang-1989.eu.org/live/now-332
-NOW财经台,https://yang-1989.eu.org/live/now-333
-VIUTV,https://yang-1989.eu.org/live/ViuTV
-VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
-翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-tvN,https://yang-1989.eu.org/live/tvN
 武功1,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 武功,https://cdn6.101.qzz.io/163189/yzwx
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -56,9 +50,6 @@ TVB 星河,https://cdn6.101.qzz.io/163189/tvbxh
 欧洲华文-2台,http://oh.eztv.vip/live/eztv2.m3u8
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-凤凰美州,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14956
-凤凰资讯,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14955
-星河国,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
 RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -70,46 +61,9 @@ CCTV6,http://8.138.7.223/tv/1905.php?id=LIVE28XN12SUI4GWG
 1905a,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905b,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 CCTV-6,http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
-中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
-东森新闻,http://51.89.166.17:3002/index.php?id=ettvnews
-东森中国,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14941
-东森卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14942
-东森美州,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14945
-台视新闻,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14946
-台视综合,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14940
-龙祥国际电影,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54678.ts
-年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
-中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
-中天新闻,https://live.catvod.com/iptv.php?id=ztn_xw
-中天新闻,http://bxtv.3a.ink/api.php?id=zsxw
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
-中天新闻,http://vhr.dpdns.org:8080/litv.php?url=http%3A%2F%2F140.238.17.98%3A8088%2Flitv%3Ftoken%3Ddldy%26id%3D4gtv-4gtv009
-中天新闻,http://211.23.125.95:50007/4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://152.32.229.52:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
-中天新闻,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv009 
-TVBS ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14928.ts
-东森洋片,http://51.89.166.17:3002/index.php?id=ettvwestern
-东森电影,http://51.89.166.17:3002/index.php?id=ettvmovie
-EYE-戏剧,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
-Hits Movie,http://51.89.166.17:3002/index.php?id=Hitsmovie
-Star Movies,http://51.89.166.17:3002/index.php?id=starmovies_raj
-Starmaa Movies,http://51.89.166.17:3002/index.php?id=starmaamovies_raj
 美亚电影(台),P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 数位电影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
 数位电影,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8?proxy=true
-亚太第一卫视,http://play2.one-tv.com/live/onetv.m3u8
-HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
-纬来精采,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
-壹综合tv,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-中视菁采,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
-八大频道,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
-TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 🍑凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 🍑凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 🍑凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -189,22 +143,6 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
 重温经典频道,http://m.061899.xyz/mg/cwjd
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-TVBS新闻台,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
-POPC,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
-TVB星河(国),http://hls-pull-wicketpw.speedws.com/live/uQ6GAaRJTHxrls4gDuthoagPy0FHuv5avbHvBZcOr5HvXfRxPV.flv
-TVB武侠(国),http://hls-pull-wicketpw.speedws.com/live/chNDM1yls4gDfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
-HOY78,http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzls4gD05KeGhG.flv
-翡翠台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345678.flv
-TVBplus,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345679.flv
-ViuTV,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345680.flv
-HOY 77,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345681.flv
-NOW新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345685.flv
-NOW星影台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345683.flv
-NOW爆谷台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345684.flv
-民視旅遊台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345686.flv
-亞洲旅遊台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345687.flv
-愛爾達生活旅遊台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345688.flv
-fun探索娛樂台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF12345689.flv
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
